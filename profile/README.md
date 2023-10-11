@@ -1,6 +1,6 @@
 Liberu Ecommerce is an innovative open source project built using Laravel 10 and PHP 8.2, aimed at revolutionizing the field of open source. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.2 to create a cutting-edge platform for building any project.
 
-Our backend project is a sophisticated genealogy website built on Laravel 10, providing users with a seamless and intuitive experience as they delve into their family lineage. Leveraging Laravel's elegant syntax and comprehensive set of tools, we have developed a feature-rich application that enables users to create, manage, and explore their family trees with ease.
+Our backend project is a sophisticated ecommerce website built on Laravel 10, providing users with a seamless and intuitive experience as they delve into their family lineage. Leveraging Laravel's elegant syntax and comprehensive set of tools, we have developed a feature-rich application that enables users to create, manage, and explore their ecommerce website.
 
 Moreover, the open source nature of our projects encourage collaboration and innovation within the genealogy community. Developers can leverage Laravel 10 and PHP 8.2 to extend the functionality of Liberu, contribute enhancements, and customize the platform to suit their specific requirements. We actively support a thriving community of developers who utilize our open source code to create complementary tools and applications, fostering an ecosystem of continuous improvement and expansion.
 
