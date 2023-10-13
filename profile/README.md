@@ -2,6 +2,26 @@
 
 Ecommerce is a cutting-edge, open-source eCommerce platform designed to provide a flexible and customizable online shopping experience. Built on the latest technologies, including Laravel 10 and PHP 8.2, Nuxt 3, Vue 3, TypeScript it embraces a modular architecture to allow developers to extend and tailor the system according to specific business needs. The project is actively under development, with an ambitious roadmap and an array of features planned to elevate eCommerce to the next level.
 
+## Our Projects
+
+Under development:
+
+* https://github.com/laravel-liberu/boilerplate - Boilerplate application using Laravel 10
+* [https://github.com/liberu-ecommerce](https://github.com/liberu-ecommerce) - Ecommerce system written in Laravel 10 using PHP 8.2
+* https://github.com/liberu-genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
+* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel
+* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.2
+* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.2
+
+Planning stage:
+
+* https://github.com/liberu-accounting
+* https://github.com/liberu-automation
+* https://github.com/liberu-cms
+* https://github.com/liberu-crm
+* https://github.com/liberu-maintenance
+* https://github.com/liberu-real-estate
+
 ## Key Features (Planned and In Development):
 
 * Modular Architecture: Ecommerce is designed with a modular architecture, enabling developers to create, integrate, and manage components seamlessly. Each module encapsulates specific functionalities, promoting code reusability and maintainability.
