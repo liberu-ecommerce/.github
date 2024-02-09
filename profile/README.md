@@ -1,6 +1,6 @@
 # Liberu Ecommerce
 
-Ecommerce is a cutting-edge, open-source eCommerce platform designed to provide a flexible and customizable online shopping experience. Built on the latest technologies, including Laravel 10 and PHP 8.2, Nuxt 3, Vue 3, TypeScript it embraces a modular architecture to allow developers to extend and tailor the system according to specific business needs. The project is actively under development, with an ambitious roadmap and an array of features planned to elevate eCommerce to the next level.
+Ecommerce is a cutting-edge, open-source eCommerce platform designed to provide a flexible and customizable online shopping experience. Built on the latest technologies, including Laravel 11 and PHP 8.3, Filament 3.2 and Livewire 3 it embraces a modular architecture to allow developers to extend and tailor the system according to specific business needs. The project is actively under development, with an ambitious roadmap and an array of features planned to elevate eCommerce to the next level.
 
 ## Our Projects
 
