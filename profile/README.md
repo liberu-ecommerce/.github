@@ -21,7 +21,7 @@ Planning stage:
 * https://github.com/liberu-crm
 * https://github.com/liberu-maintenance
 * https://github.com/liberu-real-estate
-
+  
 ## Key Features (Planned and In Development):
 
 * Modular Architecture: Ecommerce is designed with a modular architecture, enabling developers to create, integrate, and manage components seamlessly. Each module encapsulates specific functionalities, promoting code reusability and maintainability.
