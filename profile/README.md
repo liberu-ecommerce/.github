@@ -31,13 +31,13 @@ Welcome to Liberu Ecommerce – where innovation meets commerce, and the possibi
 * https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
 
 ### Other active projects
-* https://github.com/liberu-accounting
-* https://github.com/liberu-automation
-* https://github.com/liberu-cms
-* https://github.com/liberu-crm
-* https://github.com/liberu-ecommerce
-* https://github.com/liberu-maintenance
-* https://github.com/liberu-real-estate
+* https://github.com/liberu-accounting/accounting-laravel
+* https://github.com/liberu-automation/automation-laravel
+* https://github.com/liberu-cms/cms-laravel
+* https://github.com/liberu-crm/crm-laravel
+* https://github.com/liberu-ecommerce/ecommerce-laravel
+* https://github.com/liberu-maintenance/maintenance-laravel
+* https://github.com/liberu-real-estate/real-estate-laravel
   
 ## Key Features (Planned and In Development):
 
